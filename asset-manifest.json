@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/React_handson2/static/css/main.fced4a07.css",
+    "main.js": "/React_handson2/static/js/main.42240267.js",
+    "static/js/787.3162f9f2.chunk.js": "/React_handson2/static/js/787.3162f9f2.chunk.js",
+    "index.html": "/React_handson2/index.html",
+    "main.fced4a07.css.map": "/React_handson2/static/css/main.fced4a07.css.map",
+    "main.42240267.js.map": "/React_handson2/static/js/main.42240267.js.map",
+    "787.3162f9f2.chunk.js.map": "/React_handson2/static/js/787.3162f9f2.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fced4a07.css",
+    "static/js/main.42240267.js"
+  ]
+}
